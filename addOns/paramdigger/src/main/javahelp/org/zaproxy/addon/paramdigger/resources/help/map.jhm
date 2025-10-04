@@ -4,7 +4,7 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="param-digger-icon" url="contents/images/hard-hat-mine.png" />
+    <mapID target="param-digger-icon" url="contents/images/hard-hat-mine.png" />
     <mapID target="paramdigger" url="contents/paramdigger.html" />
     <mapID target="paramdigger.about" url="contents/about.html" />
     <mapID target="paramdigger.dialog" url="contents/dialog.html" />

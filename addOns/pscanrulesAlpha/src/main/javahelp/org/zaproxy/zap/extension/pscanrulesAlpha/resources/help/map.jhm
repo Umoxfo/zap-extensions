@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="pscanalpha-icon" url="contents/images/pscan-alpha.png" />
+    <mapID target="pscanalpha-icon" url="contents/images/pscan-alpha.png" />
     <mapID target="pscanalpha" url="contents/pscanalpha.html" />
 </map>

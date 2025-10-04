@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="ruby-logo" url="contents/images/ruby.png" />
+    <mapID target="ruby-logo" url="contents/images/ruby.png" />
     <mapID target="jruby" url="contents/jruby.html" />
 </map>

@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="edit-diff" url="contents/images/edit-diff.png" />
+    <mapID target="edit-diff" url="contents/images/edit-diff.png" />
     <mapID target="diff" url="contents/diff.html" />
 </map>

@@ -4,7 +4,7 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="automation-icon" url="contents/images/robot.png" />
+    <mapID target="automation-icon" url="contents/images/robot.png" />
     <mapID target="automation" url="contents/automation.html" />
     <mapID target="automation.gui" url="contents/gui.html" />
     <mapID target="automation.options" url="contents/options.html" />

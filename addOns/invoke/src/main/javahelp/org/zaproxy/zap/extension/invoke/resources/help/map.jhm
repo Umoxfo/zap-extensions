@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="addon.invoke.concepts" url="contents/concepts.html" />
-	<mapID target="addon.invoke.options" url="contents/options.html" />
+    <mapID target="addon.invoke.concepts" url="contents/concepts.html" />
+    <mapID target="addon.invoke.options" url="contents/options.html" />
 </map>

@@ -4,7 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="addon.zest.icon" url="contents/images/fruit-orange.png" />
-
-	<mapID target="addon.zest.zest" url="contents/zest.html" />
+    <mapID target="addon.zest.icon" url="contents/images/fruit-orange.png" />
+    <mapID target="addon.zest.zest" url="contents/zest.html" />
 </map>

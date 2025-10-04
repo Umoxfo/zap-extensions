@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="book" url="contents/images/book.png" />
+    <mapID target="book" url="contents/images/book.png" />
     <mapID target="gettingStarted" url="contents/gettingStarted.html" />
 </map>

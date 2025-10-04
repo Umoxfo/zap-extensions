@@ -4,7 +4,7 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="python-logo" url="contents/images/python.png" />
+    <mapID target="python-logo" url="contents/images/python.png" />
     <mapID target="jython" url="contents/jython.html" />
     <mapID target="jython.options" url="contents/options.html" />
 </map>

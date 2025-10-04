@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="addon.postman.icon" url="contents/images/postman.png" />
+    <mapID target="addon.postman.icon" url="contents/images/postman.png" />
     <mapID target="addon.postman" url="contents/postman.html" />
 </map>

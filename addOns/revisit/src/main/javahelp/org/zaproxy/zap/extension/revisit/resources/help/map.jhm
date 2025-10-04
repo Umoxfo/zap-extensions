@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="revisit-icon" url="contents/images/026.png" />
+    <mapID target="revisit-icon" url="contents/images/026.png" />
     <mapID target="revisit" url="contents/revisit.html" />
 </map>

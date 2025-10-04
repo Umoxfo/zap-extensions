@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="retire-icon" url="contents/images/retirejs_16.png" />
+    <mapID target="retire-icon" url="contents/images/retirejs_16.png" />
     <mapID target="retire" url="contents/retire.html" />
 </map>

@@ -4,7 +4,7 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="addon.fuzzer.icon" url="contents/images/fuzzer.png" />
+    <mapID target="addon.fuzzer.icon" url="contents/images/fuzzer.png" />
     <mapID target="addon.fuzzer.concepts" url="contents/concepts.html" />
     <mapID target="addon.fuzzer.dialogue" url="contents/dialogue.html" />
     <mapID target="addon.fuzzer.locations" url="contents/locations.html" />

@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="tips-icon" url="contents/images/information-balloon.png" />
+    <mapID target="tips-icon" url="contents/images/information-balloon.png" />
     <mapID target="tips" url="contents/tips.html" />
 </map>

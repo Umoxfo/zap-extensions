@@ -4,6 +4,6 @@
          "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-	<mapID target="callhome-icon" url="contents/images/callhome.png" />
+    <mapID target="callhome-icon" url="contents/images/callhome.png" />
     <mapID target="callhome" url="contents/callhome.html" />
 </map>
