@@ -7,8 +7,11 @@
 <BODY>
 <H1>Technology Detection</H1>
 <p>
-The Technology Detection add-on uses various patterns and finger prints to detect the technologies used by applications.<p>
+The Technology Detection add-on uses various patterns and finger prints to detect the technologies used by applications.
+</p>
+<p>
 It works in a very similar way to the Wappalyzer browser add-ons with the following exceptions:
+</p>
 <ul>
 <li>It does not use the 'Global JavaScript variables' as these are difficult to test without a 'full' browser</li>
 <li>It does not show the confidence - this is still todo</li>
@@ -17,23 +20,27 @@ It works in a very similar way to the Wappalyzer browser add-ons with the follow
 </ul>
 
 <H2>The Technology Tab</H2>
+<p>
 This tab shows all of the detected technologies for the site selected.<br>
 Right clicking on a technology will display a 'Show evidence' menu under which are all of the regexes used to detect it.<br>
 Selecting a regex will switch to the 'Search' tab and search through the history for that regex. Note: If multiple rows are selected
 the menu will not be displayed.
+</p>
 <p>
 Beside the site selection drop down is an Export button which can be used to export a CSV (comma separated values) file based on the
 table information currently being displayed.
+</p>
 <p>
 The toolbar also includes:
+</p>
 <ul>
   <li>An enable/disable toggle button which controls whether the technology detection passive scan rule is functioning or not. This enabled state is persisted between ZAP sessions.</li>
 </ul>
 
 <H2>Reporting</H2>
 
-Technology data is available to reports via the 
-<a href="https://github.com/zaproxy/zap-extensions/tree/main/addOns/wappalyzer/src/main/java/org/zaproxy/zap/extension/wappalyzer/automation/TechJobResultData.java">TechJobResultData</a> class.
+<p>Technology data is available to reports via the
+<a href="https://github.com/zaproxy/zap-extensions/tree/main/addOns/wappalyzer/src/main/java/org/zaproxy/zap/extension/wappalyzer/automation/TechJobResultData.java">TechJobResultData</a> class.</p>
 
 <H2>External Links</H2>
 <table>
