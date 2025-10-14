@@ -5,7 +5,7 @@ diffutils = "1.3.0"
 graaljs = "25.0.0"
 jbrofuzz = "2.5.1"
 jsoup = "1.17.2"
-kotlin = "1.3.72"
+kotlin = "2.2.20"
 langchain4j = "0.35.0"
 log4j = "2.24.2"
 nanohttpd = "2.3.1"
@@ -51,7 +51,7 @@ imagelocationscanner-metadataExtractor = "com.drewnoakes:metadata-extractor:2.19
 jruby-jruby = "org.jruby:jruby-complete:1.7.4"
 jython-jython = "org.python:jython-standalone:2.7.2"
 kotlin-compiler = { module = "org.jetbrains.kotlin:kotlin-compiler-embeddable", version.ref = "kotlin" }
-kotlin-scripting = { module = "org.jetbrains.kotlin:kotlin-scripting-jsr223-embeddable", version.ref = "kotlin" }
+kotlin-scripting = { module = "org.jetbrains.kotlin:kotlin-scripting-jsr223", version.ref = "kotlin" }
 kotlin-stdlibJdk8 = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlin" }
 llm-langchain4j = { module = "dev.langchain4j:langchain4j", version.ref = "langchain4j" }
 llm-langchain4j-azureOpenAi = { module = "dev.langchain4j:langchain4j-azure-open-ai", version.ref = "langchain4j" }

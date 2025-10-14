@@ -69,7 +69,7 @@ class ClassLoaderTests {
         CompiledScript cs = c.compile(script1);
         Object retVal1 = cs.eval();
 
-        assertSame(retVal1.getClass(), String.class);
+        assertSame(String.class, retVal1.getClass());
         assertEquals("testone", retVal1);
 
         String script2 = getScriptContents("classloaderTest2.kts");
